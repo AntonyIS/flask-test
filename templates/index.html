@@ -1,0 +1,15 @@
+{#extend base.html#}
+{% extends 'base.html' %}
+{% block title %}{{ title }}{% endblock title %}
+
+{% block body %}
+{#    your code for this page goes here#}
+    {{ jina }}
+    {% if fruits %}
+        {% for fruit in fruits %}
+            <p>{{ fruit }}</p>
+        {% endfor %}
+    {% else %}
+        <p style="color: red">Data not available</p>
+    {% endif %}
+{% endblock body %}

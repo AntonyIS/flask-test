@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b174e30b-ef1b-4df1-8822-f8fb980d0667" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOB0PD4HaGJ1LjxqZATrCaK927" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FlaskPro2" type="Python.FlaskServer">
+      <module name="FlaskPro2" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b174e30b-ef1b-4df1-8822-f8fb980d0667" name="Default Changelist" comment="" />
+      <created>1580907036233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580907036233</updated>
+      <workItem from="1580907056298" duration="2812000" />
+      <workItem from="1580989341661" duration="7480000" />
+      <workItem from="1581332556717" duration="1137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="27" width="910" height="730" key="SettingsEditor" timestamp="1580995883561">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="741" y="27" key="SettingsEditor/1680.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1580995883561" />
+    <state x="770" y="27" width="910" height="730" key="SettingsEditor/1680.0.1920.1080/51.27.1629.1023@1680.0.1920.1080" timestamp="1580989729354" />
+    <state x="756" y="76" key="SettingsEditor/51.27.1869.1053/1920.0.800.600@1920.0.800.600" timestamp="1580907280641" />
+    <state x="756" y="76" key="SettingsEditor/51.27.1869.1053/1920.0.800.600@51.27.1869.1053" timestamp="1580907589382" />
+  </component>
+</project>
